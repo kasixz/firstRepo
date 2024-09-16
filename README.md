@@ -1,0 +1,2 @@
+# firstRepo
+Pirmais mēģinājums GitHub
